@@ -1,0 +1,503 @@
+{
+    "sources": [
+        {
+            "URL": "http://yihui.name/knitr/",
+            "author": [
+                {
+                    "family": "Xie",
+                    "given": "Yihui"
+                }
+            ],
+            "edition": "2nd",
+            "id": "xie2015",
+            "issued": {
+                "date-parts": [
+                    [
+                        2015
+                    ]
+                ]
+            },
+            "note": "ISBN 978-1498716963",
+            "publisher": "Chapman; Hall/CRC",
+            "publisher-place": "Boca Raton, Florida",
+            "title": "Dynamic documents with R and knitr",
+            "type": "book"
+        },
+        {
+            "DOI": "10.1017/S0954579419000087",
+            "ISSN": "1469-2198",
+            "PMCID": "PMC6765443",
+            "PMID": "30919798",
+            "abstract": "Gastrointestinal and mental disorders are highly comorbid, and animal models have shown that both can be caused by early adversity (e.g., parental deprivation). Interactions between the brain and bacteria that live within the gastrointestinal system (the microbiome) underlie adversity-gastrointestinal-anxiety interactions, but these links have not been investigated during human development. In this study, we utilized data from a population of 344 youth (3-18 years old) who were raised with their biological parents or were exposed to early adverse caregiving experiences (i.e., institutional or foster care followed by international adoption) to explore adversity-gastrointestinal-anxiety associations. In Study 1, we demonstrated that previous adverse care experiences were associated with increased incidence of gastrointestinal symptoms in youth. Gastrointestinal symptoms were also associated with concurrent and future anxiety (measured across 5 years), and those gastrointestinal symptoms mediated the adversity-anxiety association at Time 1. In a subsample of children who provided both stool samples and functional magnetic resonance imaging of the brain (Study 2, which was a \"proof-of-principle\"), adversity was associated with changes in diversity (both alpha and beta) of microbial communities, and bacteria levels (adversity-associated and adversity-independent) were correlated with prefrontal cortex activation to emotional faces. Implications of these data for supporting youth mental health are discussed.",
+            "author": [
+                {
+                    "family": "Callaghan",
+                    "given": "Bridget L."
+                },
+                {
+                    "family": "Fields",
+                    "given": "Andrea"
+                },
+                {
+                    "family": "Gee",
+                    "given": "Dylan G."
+                },
+                {
+                    "family": "Gabard-Durnam",
+                    "given": "Laurel"
+                },
+                {
+                    "family": "Caldera",
+                    "given": "Christina"
+                },
+                {
+                    "family": "Humphreys",
+                    "given": "Kathryn L."
+                },
+                {
+                    "family": "Goff",
+                    "given": "Bonnie"
+                },
+                {
+                    "family": "Flannery",
+                    "given": "Jessica"
+                },
+                {
+                    "family": "Telzer",
+                    "given": "Eva H."
+                },
+                {
+                    "family": "Shapiro",
+                    "given": "Mor"
+                },
+                {
+                    "family": "Tottenham",
+                    "given": "Nim"
+                }
+            ],
+            "container-title": "Development and Psychopathology",
+            "id": "callaghanMindGutAssociations2020a",
+            "issue": "1",
+            "issued": {
+                "date-parts": [
+                    [
+                        2020,
+                        2
+                    ]
+                ]
+            },
+            "keyword": "anxiety,development,functional magnetic resonance imaging,gastrointestinal distress,microbiome",
+            "page": "309-328",
+            "title": "Mind and gut: Associations between mood and gastrointestinal distress in children exposed to adversity",
+            "title-short": "Mind and gut",
+            "type": "article-journal",
+            "volume": "32"
+        },
+        {
+            "URL": "https://www.R-project.org/",
+            "author": [
+                {
+                    "literal": "R Core Team"
+                }
+            ],
+            "id": "R-base",
+            "issued": {
+                "date-parts": [
+                    [
+                        2024
+                    ]
+                ]
+            },
+            "publisher": "R Foundation for Statistical Computing",
+            "publisher-place": "Vienna, Austria",
+            "title": "R: A language and environment for statistical computing",
+            "title-short": "R",
+            "type": "book"
+        },
+        {
+            "URL": "https://github.com/rstudio/bookdown",
+            "author": [
+                {
+                    "family": "Xie",
+                    "given": "Yihui"
+                }
+            ],
+            "id": "R-bookdown",
+            "issued": {
+                "date-parts": [
+                    [
+                        2024
+                    ]
+                ]
+            },
+            "note": "R package version 0.40",
+            "title": "Bookdown: Authoring books and technical documents with r markdown",
+            "title-short": "Bookdown",
+            "type": "book"
+        },
+        {
+            "URL": "https://yihui.org/knitr/",
+            "author": [
+                {
+                    "family": "Xie",
+                    "given": "Yihui"
+                }
+            ],
+            "id": "R-knitr",
+            "issued": {
+                "date-parts": [
+                    [
+                        2024
+                    ]
+                ]
+            },
+            "note": "R package version 1.47",
+            "title": "Knitr: A general-purpose package for dynamic report generation in r",
+            "title-short": "Knitr",
+            "type": "book"
+        },
+        {
+            "URL": "https://github.com/rstudio/rmarkdown",
+            "author": [
+                {
+                    "family": "Allaire",
+                    "given": "JJ"
+                },
+                {
+                    "family": "Xie",
+                    "given": "Yihui"
+                },
+                {
+                    "family": "Dervieux",
+                    "given": "Christophe"
+                },
+                {
+                    "family": "McPherson",
+                    "given": "Jonathan"
+                },
+                {
+                    "family": "Luraschi",
+                    "given": "Javier"
+                },
+                {
+                    "family": "Ushey",
+                    "given": "Kevin"
+                },
+                {
+                    "family": "Atkins",
+                    "given": "Aron"
+                },
+                {
+                    "family": "Wickham",
+                    "given": "Hadley"
+                },
+                {
+                    "family": "Cheng",
+                    "given": "Joe"
+                },
+                {
+                    "family": "Chang",
+                    "given": "Winston"
+                },
+                {
+                    "family": "Iannone",
+                    "given": "Richard"
+                }
+            ],
+            "id": "R-rmarkdown",
+            "issued": {
+                "date-parts": [
+                    [
+                        2024
+                    ]
+                ]
+            },
+            "note": "R package version 2.27",
+            "title": "Rmarkdown: Dynamic documents for r",
+            "title-short": "Rmarkdown",
+            "type": "book"
+        },
+        {
+            "ISBN": "978-1138700109",
+            "URL": "https://bookdown.org/yihui/bookdown",
+            "author": [
+                {
+                    "family": "Xie",
+                    "given": "Yihui"
+                }
+            ],
+            "id": "bookdown2016",
+            "issued": {
+                "date-parts": [
+                    [
+                        2016
+                    ]
+                ]
+            },
+            "publisher": "Chapman; Hall/CRC",
+            "publisher-place": "Boca Raton, Florida",
+            "title": "Bookdown: Authoring books and technical documents with R markdown",
+            "title-short": "Bookdown",
+            "type": "book"
+        },
+        {
+            "URL": "https://yihui.org/knitr/",
+            "author": [
+                {
+                    "family": "Xie",
+                    "given": "Yihui"
+                }
+            ],
+            "edition": "2nd",
+            "id": "knitr2015",
+            "issued": {
+                "date-parts": [
+                    [
+                        2015
+                    ]
+                ]
+            },
+            "note": "ISBN 978-1498716963",
+            "publisher": "Chapman; Hall/CRC",
+            "publisher-place": "Boca Raton, Florida",
+            "title": "Dynamic documents with R and knitr",
+            "type": "book"
+        },
+        {
+            "author": [
+                {
+                    "family": "Xie",
+                    "given": "Yihui"
+                }
+            ],
+            "container-title": "Implementing reproducible computational research",
+            "editor": [
+                {
+                    "family": "Stodden",
+                    "given": "Victoria"
+                },
+                {
+                    "family": "Leisch",
+                    "given": "Friedrich"
+                },
+                {
+                    "family": "Peng",
+                    "given": "Roger D."
+                }
+            ],
+            "id": "knitr2014",
+            "issued": {
+                "date-parts": [
+                    [
+                        2014
+                    ]
+                ]
+            },
+            "note": "ISBN 978-1466561595",
+            "publisher": "Chapman; Hall/CRC",
+            "title": "Knitr: A comprehensive tool for reproducible research in R",
+            "title-short": "Knitr",
+            "type": "chapter"
+        },
+        {
+            "ISBN": "9781138359338",
+            "URL": "https://bookdown.org/yihui/rmarkdown",
+            "author": [
+                {
+                    "family": "Xie",
+                    "given": "Yihui"
+                },
+                {
+                    "family": "Allaire",
+                    "given": "J. J."
+                },
+                {
+                    "family": "Grolemund",
+                    "given": "Garrett"
+                }
+            ],
+            "id": "rmarkdown2018",
+            "issued": {
+                "date-parts": [
+                    [
+                        2018
+                    ]
+                ]
+            },
+            "publisher": "Chapman; Hall/CRC",
+            "publisher-place": "Boca Raton, Florida",
+            "title": "R markdown: The definitive guide",
+            "title-short": "R markdown",
+            "type": "book"
+        },
+        {
+            "ISBN": "9780367563837",
+            "URL": "https://bookdown.org/yihui/rmarkdown-cookbook",
+            "author": [
+                {
+                    "family": "Xie",
+                    "given": "Yihui"
+                },
+                {
+                    "family": "Dervieux",
+                    "given": "Christophe"
+                },
+                {
+                    "family": "Riederer",
+                    "given": "Emily"
+                }
+            ],
+            "id": "rmarkdown2020",
+            "issued": {
+                "date-parts": [
+                    [
+                        2020
+                    ]
+                ]
+            },
+            "publisher": "Chapman; Hall/CRC",
+            "publisher-place": "Boca Raton, Florida",
+            "title": "R markdown cookbook",
+            "type": "book"
+        },
+        {
+            "DOI": "10.1176/appi.ps.55.9.1055",
+            "ISSN": "1075-2730",
+            "PMID": "15345768",
+            "abstract": "The outbreak of severe acute respiratory syndrome (SARS) was unique because it was highly concentrated in health care settings and a large number of health care workers were infected. This study investigated stress reactions among 338 staff members in a hospital in East Taiwan that discontinued emergency and outpatient services to prevent possible nosocomial outbreak. Seventeen staff members (5 percent) suffered from an acute stress disorder; stepwise multiple logistic regression analysis determined that quarantine was the most related factor. Sixty-six staff members (20 percent) felt stigmatized and rejected in their neighborhood because of their hospital work, and 20 of 218 health care workers (9 percent) reported reluctance to work or had considered resignation.",
+            "author": [
+                {
+                    "family": "Bai",
+                    "given": "YaMei"
+                },
+                {
+                    "family": "Lin",
+                    "given": "Chao-Cheng"
+                },
+                {
+                    "family": "Lin",
+                    "given": "Chih-Yuan"
+                },
+                {
+                    "family": "Chen",
+                    "given": "Jen-Yeu"
+                },
+                {
+                    "family": "Chue",
+                    "given": "Ching-Mo"
+                },
+                {
+                    "family": "Chou",
+                    "given": "Pesus"
+                }
+            ],
+            "container-title": "Psychiatric Services (Washington, D.C.)",
+            "id": "baiSurveyStressReactions2004",
+            "issue": "9",
+            "issued": {
+                "date-parts": [
+                    [
+                        2004,
+                        9
+                    ]
+                ]
+            },
+            "keyword": "Adult,Catchment Area; Health,Diagnostic and Statistical Manual of Mental Disorders,Disease Outbreaks,Female,Health Personnel,Hospitals,Humans,Male,Severe Acute Respiratory Syndrome,Stress; Psychological,Surveys and Questionnaires,Taiwan",
+            "page": "1055-1057",
+            "title": "Survey of stress reactions among health care workers involved with the SARS outbreak",
+            "type": "article-journal",
+            "volume": "55"
+        },
+        {
+            "DOI": "10.1016/j.jinf.2005.10.019",
+            "ISSN": "1532-2742",
+            "PMCID": "PMC7132442",
+            "PMID": "16343636",
+            "abstract": "OBJECTIVES: To investigate 2 positive impacts (better family/social support and lifestyle changes) and their associations with other negative impacts. STUDY DESIGN AND PARTICIPANTS: A telephone survey using random telephone numbers and a structured questionnaire was conducted in Hong Kong general population. Eight hundred and eighteen Hong Kong residents of age 18-60 years completed the interview (response rate: 65%) at around end of June 2003, the early ending phase of the epidemic. RESULTS: Over 60% of the respondents stated that they cared more about the family members’ feelings; about 30%-40% stated that they found their friends, their family members more supportive or having more sharing with others when not feeling happy; only a few percent felt the opposite. Further, about 2/3 of the respondents paid more attention to their mental health. About 35%-40% took more time to rest, for relaxation or doing exercise. These items were, in general, negatively associated with post-traumatic stress, perception of stress and other perceptions that were related to SARS. CONCLUSIONS: SARS have brought some positive impacts on social/family support, mental health awareness and lifestyle changes. These positive impacts were associated with other relevant negative impacts and might be important cushions of the negative impact.",
+            "author": [
+                {
+                    "family": "Lau",
+                    "given": "Joseph T. F."
+                },
+                {
+                    "family": "Yang",
+                    "given": "Xilin"
+                },
+                {
+                    "family": "Tsui",
+                    "given": "H. Y."
+                },
+                {
+                    "family": "Pang",
+                    "given": "Ellie"
+                },
+                {
+                    "family": "Wing",
+                    "given": "Yun Kwok"
+                }
+            ],
+            "container-title": "The Journal of Infection",
+            "id": "lauPositiveMentalHealthrelated2006",
+            "issue": "2",
+            "issued": {
+                "date-parts": [
+                    [
+                        2006,
+                        8
+                    ]
+                ]
+            },
+            "keyword": "Adolescent,Adult,Data Collection,Disease Outbreaks,Female,Health Behavior,Hong Kong,Humans,Male,Mental Health,Middle Aged,Odds Ratio,Severe Acute Respiratory Syndrome",
+            "page": "114-124",
+            "title": "Positive mental health-related impacts of the SARS epidemic on the general public in Hong Kong and their associations with other negative impacts",
+            "type": "article-journal",
+            "volume": "53"
+        },
+        {
+            "ISSN": "0897-5264",
+            "author": [
+                {
+                    "family": "MacGeorge",
+                    "given": "Erina L."
+                },
+                {
+                    "family": "Samter",
+                    "given": "Wendy"
+                },
+                {
+                    "family": "Feng",
+                    "given": "Bo"
+                },
+                {
+                    "family": "Gillihan",
+                    "given": "Seth J."
+                },
+                {
+                    "family": "Graves",
+                    "given": "Angela R."
+                }
+            ],
+            "container-title": "Journal of College Student Development",
+            "id": "macgeorgeStressSocialSupport2004",
+            "issue": "6",
+            "issued": {
+                "date-parts": [
+                    [
+                        2004,
+                        11
+                    ]
+                ]
+            },
+            "page": "655-670",
+            "publisher": "Johns Hopkins University Press",
+            "title": "Stress, social support, and health among college students after september 11, 2001",
+            "type": "article-journal",
+            "volume": "45"
+        }
+    ],
+    "project_biblios": [
+        "book.bib",
+        "packages.bib",
+        "ref.bib"
+    ]
+}

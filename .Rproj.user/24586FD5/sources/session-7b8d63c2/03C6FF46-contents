@@ -1,0 +1,151 @@
+# Study Overview
+
+
+## Study Details
+![<!--- Study Overview--->](images/CHIRP_Overview.png)
+
+## Baseline Session
+- Completed on Zoom.
+- Participants are administered the full standard M.I.N.I. (minus Suicide Module)
+- Participants then complete a set of questionnaire on REDCap befor their first in-person session.
+
+## Behavioral Sessions
+- [NEED TO ADD]
+
+## MRI Sessions
+- Participant completes State questionnaires & metal screening
+
+- Scan Sequence (for detailed parameters see below)
+  - MPRage
+  - VIA Task (x3)
+  - Resting State
+  
+- Post-scan
+  - Blood Sample collected
+  - Stool kit given for at home collection
+
+
+## Questionnaires
+
+- **Demographics**
+  
+  
+- **Childhood Trauma Questionnaire**
+  - Pennebaker, J. W., & Susman, J. R. (1988). Disclosure of traumas and psychosomatic processes. Social science & medicine, 26(3), 327-332.
+
+
+- **Interoceptive Accuracy Scale (IAS)**
+  - Murphy, J., Brewer, R., Plans, D., Khalsa, S. S., Catmur, C., & Bird, G. (2020). Testing the independence of self-reported interoceptive accuracy and attention. Quarterly Journal of Experimental Psychology, 73(1), 115-133.
+
+
+- **Multidimensional Assessment of Interoceptive Awareness 2 (MAIA-2)**
+  - Mehling WE, Acree M, Stewart A, Silas J, Jones A (2018) The Multidimensional Assessment of Interoceptive Awareness, Version 2 (MAIA-2). PLoS ONE 13(12): e0208034.
+  
+  
+- **Interoceptive Confusion Questionnaire (ICQ)**
+  - Brewer, R., Cook, R., & Bird, G. (2016). Alexithymia: a general deficit of interoception. Royal Society open science, 3(10), 150664.
+
+
+- **CES-D**
+  - Radloff, L. S. (1977). The CES-D scale: A self-report depression scale for research in the general population. Applied psychological measurement, 1(3), 385-401.
+
+
+- **Questionnaire of Unpredictability in Childhood (QUIC)**
+  - Glynn, L. M., Stern, H. S., Howland, M. A., Risbrough, V. B., Baker, D. G., Nievergelt, C. M., ... & Davis, E. P. (2019). Measuring novel antecedents of mental illness: the Questionnaire of Unpredictability in Childhood. Neuropsychopharmacology, 44(5), 876-882.
+
+
+- **Toronto Alexithymia Scale (TAS-20)**
+  - Bagby, R. M., Parker, J. D., & Taylor, G. J. (1994). The twenty-item Toronto Alexithymia Scale—I. Item selection and cross-validation of the factor structure. Journal of psychosomatic research, 38(1), 23-32.
+
+
+- **Body Perception Questionnaire (BPQ)**
+  
+- **Anxiety Sensitivity Index (ASI)**
+  
+- **Beck Depression Inventory (BDI; Suicidality question omitted)**
+  
+- **Patient Health Questionnaire (PHQ-9)**
+  
+- **Perth Alexithymia Questionnaire (PAQ)**
+  
+- **Glasgow Sensory Questionnaire (GSQ)**
+  
+- **Premenstrual Syndrome Questionnaire (PSQ)**
+  
+- **Generalized Anxiety Disorder 7 (GAD-7)**
+  
+- **Five Facet Mindfulness Questionnaire (FFMQ-15)**
+
+- **State Questionnaire**
+  - [DETAILS ON State Questions Collected each session]
+  
+
+## Tasks
+- **Heartbeat Detection Task (HDT)**
+  - Run HBD Python Task (40 trials; 200ms & 500ms fixed offsets)
+  - All data automatically recorded
+  - Also run exteroceptive Condition (10 trials)
+
+
+- **Water Load (WL)**
+  - Fill each jug (2) with 1.5mL of room temperature water
+  - Participant is given one of the jugs and the following instructions:
+    - ‘During the following five minutes, we ask you to drink water until perceiving a sign of satiation. By satiation we mean the comfortable sensation you perceive when you have eaten a meal and you have eaten enough, but not too much.’ 
+  - After the first 5 min trial, the participant is given the second jug and instructed:
+    - ‘We now ask you to drink again during five minutes. Please continue drinking until your stomach is completely full, that is, entirely filled with water.’
+  - The experimenter leaves the room for both 5-min trials
+  - Experimenter records the amount of water drank from each jug.
+
+
+- **Respiratory Resistance (RR)**
+  - 10s trials
+  - 5 levels of resistance (4 filters + 1 no filter trial) each presented 1x in random order
+  - Participant cannot see which filter is being placed
+  - Order of resistance presented is randomized
+  - During this task, participants will breathe through a mask covering both the mouth and nose, connected to a two-way non-rebreathing valve (Ambu Mark III, Ambu GmbH) via a bacterial and viral filter. The inlet valve will be connected to a plastic tube to which the inspiratory load can be attached. We plan to use Hans Rudolph Linear Resistors 7100R providing a passive restriction of the inspiratory air flow by the following resistances: 0, 5, 10, 25 and 50 cmH20/liters per second (LPS). The linear resistors will be placed on the inspiratory plastic tubing for 10 s which corresponded to an average of 2 breathing cycles. After the 10s trial, participants will rate their subjective effort, unpleasantness, intensity, difficulty, stress, and fear using a VAS for each.
+
+
+- **Breath Hold (BH)**
+  - Participant places nose clip on nose
+  - Instruct participant to “exhale all air out of your lungs, then take a deep breath in and then hold it as long as you can tolerate.”
+    - Participant does not exhale during breath hold
+  - The trial lasts up to 2-min and the participant exhales into the capnometer.
+  - Experimenter records:
+    - Duration of breath (seconds)
+    - PEF (L/min)
+    - FEV1 (L)
+  - Participant completes VAS ratings
+  - 2-min break between trails; two trials total
+
+
+
+- **Taste Task (TT)**
+  - [NEED TO ADD]
+
+
+- **Von Frey Filaments (VFF)**
+  - Press VFF into palm of participant hand for 10s; Participants then make VAS rating
+  - Complete each of the filaments (1x) with random order presentation (5 trials total)
+  - Participant eyes closed
+
+
+- **Visceral Interoceptive Attention (VIA; Completed during MRI)**
+  - Participants will complete 3 runs of the Visceral Interoceptive Attention (VIA) Task in the MRI machine. During each run, participants will be presented with cues to different body locations (“Heart”, “Lungs”, “Uterus”, “Target” (exteroceptive condition)). They will be instructed to attend to the body location represented by the cue while the cue is on the screen. Additionally, participants will complete a simple attention check (intensity ratings) following 1/3 of trials to make sure they are still engaged in the task1. Stimuli will be presented in a fixed-random order across sessions, with each run having a different order (i.e., 3 versions of the task, each presented once per session). Additionally, each trial will have a mean ITI of 4000ms (range 2000ms – 6000ms). All components of the task will be TR-locked.
+  
+![<!--- VIA Timing--->](images/VIA_Timing.png)  
+
+##MRI Parameters
+-   [NEED TO ADD]
+
+## Biosamples
+- Blood
+  - [NEED TO ADD]
+  
+- Stool
+  - [NEED TO ADD]
+  
+## Cycle Tracking
+- [NEED TO ADD]
+
+## Funding
+N/A

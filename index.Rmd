@@ -1,0 +1,24 @@
+--- 
+title: "Cyclic Hormones and Interoception with Repeated Profiling (CHIRP)"
+author: "Paul W. Savoca, Sahib Khalsa, & Bridget L. Callaghan"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+documentclass: book
+bibliography: [book.bib, packages.bib, ref.bib]
+biblio-style: apalike
+link-citations: yes
+github-repo: rstudio/bookdown-demo
+description: "BEAD Study"
+---
+
+# Introduction
+This wiki contains information for the Cyclic Hormones and Interoception with Repeated Profiling (CHIRP) Study.
+
+
+```{r include=FALSE}
+# automatically create a bib database for R packages
+knitr::write_bib(c(
+  .packages(), 'bookdown', 'knitr', 'rmarkdown'
+), 'packages.bib')
+```

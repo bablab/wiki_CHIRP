@@ -1,0 +1,53 @@
+# Study Details
+
+## Task 
+
+**TRAP Task Overview**
+![<!--- Task --->](images/trap_task_overview.png)
+- Participants continuously (sampled at 5 Hz) report their subjective experience of arousal throughout the task.
+- The rating of arousal does not have bounds: it can increase or decrease without limit. Therefore, all responses should be considered relative within a participant.
+
+**Videos**
+- Videos were previously normed in another study (Schaefer et al., 2010)
+- https://sites.uclouvain.be/ipsp/FilmStim/ 
+
+## Physiology
+**Signals:**
+
+- ECG
+- EDA
+- Respiration
+
+![<!--- Physiology --->](images/physio.png)
+
+**Sampling Rate:** 1000 Hz
+
+
+## Questionnaires
+
+- **Anxiety Sensitivty Index 3 (ASI-3)**
+  - Taylor, S., Zvolensky, M. J., Cox, B. J., Deacon, B., Heimberg, R. G., Ledley, D. R., ... & Cardenas, S. J. (2007). Robust dimensions of anxiety sensitivity: development and initial validation of the Anxiety Sensitivity Index-3. Psychological assessment, 19(2), 176.
+- **Center for Epidemiological Studies Depression Scale (CES-D)**
+  - Radloff, L. S. (1977). The CES-D scale: A self-report depression scale for research in the general population. Applied psychological measurement, 1(3), 385-401.
+- **Demographics**
+  - BAB Lab
+- **Health Questionnaire**
+  - From IASL 
+- **Interoceptive Accuracy Scale (IAS)**
+  - Murphy, J., Brewer, R., Plans, D., Khalsa, S. S., Catmur, C., & Bird, G. (2020). Testing the independence of self-reported interoceptive accuracy and attention. Quarterly Journal of Experimental Psychology, 73(1), 115-133.
+- **Multidimensional Assessment of Interoceptive Awareness (MAIA-2)**
+  - Mehling WE, Acree M, Stewart A, Silas J, Jones A (2018) The Multidimensional Assessment of Interoceptive Awareness, Version 2 (MAIA-2). PLoS ONE 13(12): e0208034.
+- **Questionnaire of Uncertainty in Childhood (QUIC)**
+  - Glynn, L. M., Stern, H. S., Howland, M. A., Risbrough, V. B., Baker, D. G., Nievergelt, C. M., ... & Davis, E. P. (2019). Measuring novel antecedents of mental illness: the Questionnaire of Unpredictability in Childhood. Neuropsychopharmacology, 44(5), 876-882.
+- **Toronto Alexithymia Scale 20 (TAS-20)**
+  - Bagby, R. M., Parker, J. D., & Taylor, G. J. (1994). The twenty-item Toronto Alexithymia Scale—I. Item selection and cross-validation of the factor structure. Journal of psychosomatic research, 38(1), 23-32.
+  
+## TRAP 2.0
+
+- To replicate findings from the initial TRAP analyses, a second dataset (TRAP 2.0) was collected. The procedure was largely the same with some minor adjustments or improvements:
+  - The task was programed in Psychopy to improve quality from Matlab Version
+  - The first Video (V1a and V1b) was replace by a clip from The Piano (still Negative Valence, High Arousal)
+  - The second video (V2) was replaced with a clip from Dead Poets Society (Postive Valence, High Arousal) to attempt to distinguish arousal effects from valence effects.
+  - In addition to ECG, EDA, and Respiration, Impedance Cardiography (ICG) was also collected during the task using a 4 spot electrode configuration (top of sternum, ziphoid, lower neck, lower back).
+  - The ASI-3 was not administered in TRAP 2.0
+  - However, the CTQ (short version from SoM), Interoceptive Confusion Questionnaire (ICQ), and State Trait Anxiety Inventory - Trait (STAI-T) were all added
