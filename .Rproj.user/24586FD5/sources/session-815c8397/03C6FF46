@@ -3,7 +3,7 @@
     "path": "~/Documents/GitHub/wiki_CHIRP/02-Study-Overview.Rmd",
     "project_path": "02-Study-Overview.Rmd",
     "type": "r_markdown",
-    "hash": "1712264023",
+    "hash": "3932797421",
     "contents": "",
     "dirty": false,
     "created": 1758051506956.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "139,13",
-        "scrollLine": "133"
+        "cursorPosition": "45,44",
+        "scrollLine": "37"
     },
     "folds": "",
-    "lastKnownWriteTime": 1758052983,
+    "lastKnownWriteTime": 1768244271,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1758052983852,
+    "last_content_update": 1768244271754,
     "read_only": false,
     "read_only_alternatives": []
 }

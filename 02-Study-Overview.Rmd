@@ -10,7 +10,7 @@
 - Participants then complete a set of questionnaire on REDCap befor their first in-person session.
 
 ## Behavioral Sessions
-- [NEED TO ADD]
+- During the lab sessions, the participant first completes the state questionnaire on an iPad. The researcher then shares with the participant which two tasks they would be completing that session. Participants then complete one of the three primary interoceptive tasks (Heartbeat Detection, Water Load, or Respiratory Resistance) followed by one of the three secondary tasks (Breath Hold, Taste Test or Von Frey Filaments). All questionnaires and lab tasks are described in detail below.
 
 ## MRI Sessions
 - Participant completes State questionnaires & metal screening
@@ -27,57 +27,14 @@
 
 ## Questionnaires
 
-- **Demographics**
+- **Baseline Questionnaires**
   
-  
-- **Childhood Trauma Questionnaire**
-  - Pennebaker, J. W., & Susman, J. R. (1988). Disclosure of traumas and psychosomatic processes. Social science & medicine, 26(3), 327-332.
-
-
-- **Interoceptive Accuracy Scale (IAS)**
-  - Murphy, J., Brewer, R., Plans, D., Khalsa, S. S., Catmur, C., & Bird, G. (2020). Testing the independence of self-reported interoceptive accuracy and attention. Quarterly Journal of Experimental Psychology, 73(1), 115-133.
-
-
-- **Multidimensional Assessment of Interoceptive Awareness 2 (MAIA-2)**
-  - Mehling WE, Acree M, Stewart A, Silas J, Jones A (2018) The Multidimensional Assessment of Interoceptive Awareness, Version 2 (MAIA-2). PLoS ONE 13(12): e0208034.
-  
-  
-- **Interoceptive Confusion Questionnaire (ICQ)**
-  - Brewer, R., Cook, R., & Bird, G. (2016). Alexithymia: a general deficit of interoception. Royal Society open science, 3(10), 150664.
-
-
-- **CES-D**
-  - Radloff, L. S. (1977). The CES-D scale: A self-report depression scale for research in the general population. Applied psychological measurement, 1(3), 385-401.
-
-
-- **Questionnaire of Unpredictability in Childhood (QUIC)**
-  - Glynn, L. M., Stern, H. S., Howland, M. A., Risbrough, V. B., Baker, D. G., Nievergelt, C. M., ... & Davis, E. P. (2019). Measuring novel antecedents of mental illness: the Questionnaire of Unpredictability in Childhood. Neuropsychopharmacology, 44(5), 876-882.
-
-
-- **Toronto Alexithymia Scale (TAS-20)**
-  - Bagby, R. M., Parker, J. D., & Taylor, G. J. (1994). The twenty-item Toronto Alexithymia Scale—I. Item selection and cross-validation of the factor structure. Journal of psychosomatic research, 38(1), 23-32.
-
-
-- **Body Perception Questionnaire (BPQ)**
-  
-- **Anxiety Sensitivity Index (ASI)**
-  
-- **Beck Depression Inventory (BDI; Suicidality question omitted)**
-  
-- **Patient Health Questionnaire (PHQ-9)**
-  
-- **Perth Alexithymia Questionnaire (PAQ)**
-  
-- **Glasgow Sensory Questionnaire (GSQ)**
-  
-- **Premenstrual Syndrome Questionnaire (PSQ)**
-  
-- **Generalized Anxiety Disorder 7 (GAD-7)**
-  
-- **Five Facet Mindfulness Questionnaire (FFMQ-15)**
+![<!--- Baseline Questionnaires--->](images/CHIRP_Questionnaire_Table.png)   
+- **M.I.N.I.**
+  - During the baseline zoom session, participants will complete the Mini International Neuropsychiatric Interview (M.I.N.I.; Sheehan et al., 1998)
 
 - **State Questionnaire**
-  - [DETAILS ON State Questions Collected each session]
+  - At the beginning of each session, participants will complete a set of state questionnaires. The following constructs are assessed using a VAS: valence, arousal/activation,  How depressed do you feel today?, How anxious do you feel today?, Fatigued, How well can you sense your body today?, How in-touch with your body are you today?, How much are you worrying about your body sensations today?, How Stressed do you feel today?. Participants also report whether or not they felt sick (yes or no) and the amount and time since they last consumed: food, caffeine, alcohol, diet pills, sleeping pills, and tobacco.
   
 
 ## Tasks
@@ -85,7 +42,8 @@
   - Run HBD Python Task (40 trials; 200ms & 500ms fixed offsets)
   - All data automatically recorded
   - Also run exteroceptive Condition (10 trials)
-
+  
+![<!--- HDT Figure--->](images/HDT_Figure.jpg) 
 
 - **Water Load (WL)**
   - Fill each jug (2) with 1.5mL of room temperature water
@@ -120,7 +78,7 @@
 
 
 - **Taste Task (TT)**
-  - [NEED TO ADD]
+  - For the Taste test, participants are provided with 5 flavors of jellybeans (Juicy Pear, Bubble Gum, Buttered Popcorn, Sizzling Cinnamon, and Sunkist Tangerine), one at a time. After eating each jellybean, participants rate the flavor on the five basic tastes, using a continuous VAS for each basic taste (sweet, sour, salty, bitter, and umami). In between each jellybean participants rinse their mouth with water and the presentation order of flavors is fully randomized for each session. 
 
 
 - **Von Frey Filaments (VFF)**
@@ -135,17 +93,25 @@
 ![<!--- VIA Timing--->](images/VIA_Timing.png)  
 
 ##MRI Parameters
--   [NEED TO ADD]
+- During the neuroimaging sessions, participants complete a localizer scan, a MPRage, three runs of the VIA task, and a resting state fMRI (rs-fMRI) scan. Scans are always collected in the same order. All scans are collected using a Siemens 3 Tesla PRISMA with a 32-channel head coil. 
+- The following parameters are used for the MPRage scan: 1900ms repetition time (TR), 2.48 echo time (TE), 9° flip angle (FA), 256 mm field of view (FOV), 208 slices (1 mm thickness), 4:33 min acquisition time (TA). 
+- The following parameters are used for all functional MRI scans: echo-gradient EPI, acquired axially A >> P, 2000ms TR, 30ms TE, 75° FA, 3.4 x 3.4 x 4.0 mm3 voxel size, 220 FOV, 33 slices (4.0mm thickness) , interleaved acquisition. For each run of the VIA task, the scan has an acquisition time of 5:28 min (162 volumes). For the rs-fMRI the scan has an acquisition time of 7:00 min (208 volumes). A fixation cross is presented during the rs-fMRI and participants were instructed to keep their eyes open, but blink normally. 
 
 ## Biosamples
 - Blood
-  - [NEED TO ADD]
+  - Venipuncture blood draw collected by CTRC Mobile Nursing Staff
+  - 10mL Blood collected (EDTA Lavendar Tube) after MRI scan session
+  - Centrifuge for 10 min (2000rcf; 20C)
+  - Pipette plasma and residual blood into cryovials
+  - Stored in -80C freezer until sent for analysis
+
   
 - Stool
-  - [NEED TO ADD]
+  - Following each MRI session, participants are provided with a Omnigene Gut Kit from DNAGenotek to take home with them. They complete the stool sample at home and return the stool kit at one of their following sessions. The stool will be processed using shotgun metagenomic sequencing.
   
 ## Cycle Tracking
-- [NEED TO ADD]
+- Prior to the first month of data collection, participants will complete at daily at home urine assessments of luteinizing hormone (LH) to help characterized their menstrual cycle. Participants will continue to complete LH testing at home throughout the study, but testing will be limited to the end of menstruation through several days after their LH peak (i.e., ovulation). 
+- In addition to the LH tracking, participants will report the start and end dates of menstruation for the time preceding date collection and throughout their enrollment in the study. These self-reported dates will be used to align data to the start of each menstrual cycle (first day of menstruation). 
 
 ## Funding
 N/A
