@@ -10,6 +10,7 @@ behavioral-sessions
 mri-sessions
 questionnaires
 tasks
+mri-parameters
 biosamples
 cycle-tracking
 funding

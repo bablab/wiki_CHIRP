@@ -92,7 +92,7 @@
   
 ![<!--- VIA Timing--->](images/VIA_Timing.png)  
 
-##MRI Parameters
+## MRI Parameters
 - During the neuroimaging sessions, participants complete a localizer scan, a MPRage, three runs of the VIA task, and a resting state fMRI (rs-fMRI) scan. Scans are always collected in the same order. All scans are collected using a Siemens 3 Tesla PRISMA with a 32-channel head coil. 
 - The following parameters are used for the MPRage scan: 1900ms repetition time (TR), 2.48 echo time (TE), 9° flip angle (FA), 256 mm field of view (FOV), 208 slices (1 mm thickness), 4:33 min acquisition time (TA). 
 - The following parameters are used for all functional MRI scans: echo-gradient EPI, acquired axially A >> P, 2000ms TR, 30ms TE, 75° FA, 3.4 x 3.4 x 4.0 mm3 voxel size, 220 FOV, 33 slices (4.0mm thickness) , interleaved acquisition. For each run of the VIA task, the scan has an acquisition time of 5:28 min (162 volumes). For the rs-fMRI the scan has an acquisition time of 7:00 min (208 volumes). A fixation cross is presented during the rs-fMRI and participants were instructed to keep their eyes open, but blink normally. 
